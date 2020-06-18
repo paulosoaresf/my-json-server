@@ -1,45 +1,45 @@
-{
-  "total": 119,
+[{
+  "total": 10,
   "items": [
     {
-      "itemCode": "1|44",
-      "itemDesc": "CONSUMER HEALTH CARE|HOME DIAGNOSTICS"
+      "itemCode": "CN",
+      "itemDesc": "China"
     },
     {
-      "itemCode": "1|45",
-      "itemDesc": "CONSUMER HEALTH CARE|DIGESTIVE HEALTH"
+      "itemCode": "JP",
+      "itemDesc": "Japan"
     },
     {
-      "itemCode": "1|46",
-      "itemDesc": "CONSUMER HEALTH CARE|PERSONAL INTIMACY"
+      "itemCode": "TH",
+      "itemDesc": "Thailand"
     },
     {
-      "itemCode": "1|5",
-      "itemDesc": "CONSUMER HEALTH CARE|BABY CARE"
+      "itemCode": "RU",
+      "itemDesc": "Russia"
     },
     {
-      "itemCode": "1|6",
-      "itemDesc": "CONSUMER HEALTH CARE|FIRST AID"
+      "itemCode": "ZM",
+      "itemDesc": "Zambia"
     },
     {
-      "itemCode": "1|63",
-      "itemDesc": "CONSUMER HEALTH CARE|SB ADULT CARE"
+      "itemCode": "FR",
+      "itemDesc": "France"
     },
     {
-      "itemCode": "1|64",
-      "itemDesc": "CONSUMER HEALTH CARE|SB PAIN RELIEVERS"
+      "itemCode": "GU",
+      "itemDesc": "Guam"
     },
     {
-      "itemCode": "1|67",
-      "itemDesc": "CONSUMER HEALTH CARE|NICOTINE REPLACEMENT"
+      "itemCode": "SI",
+      "itemDesc": "Slovenia"
     },
     {
-      "itemCode": "1|68",
-      "itemDesc": "CONSUMER HEALTH CARE|HEALTHCARE INNOVATION"
+      "itemCode": "FR",
+      "itemDesc": "France"
     },
     {
-      "itemCode": "1|69",
-      "itemDesc": "CONSUMER HEALTH CARE|SB DIGESTIVE HEALTH"
+      "itemCode": "ID",
+      "itemDesc": "Indonesia"
     }
   ]
-}
+}]
