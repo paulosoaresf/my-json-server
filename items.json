@@ -1,0 +1,45 @@
+{
+  "total": 119,
+  "items": [
+    {
+      "itemCode": "1|44",
+      "itemDesc": "CONSUMER HEALTH CARE|HOME DIAGNOSTICS"
+    },
+    {
+      "itemCode": "1|45",
+      "itemDesc": "CONSUMER HEALTH CARE|DIGESTIVE HEALTH"
+    },
+    {
+      "itemCode": "1|46",
+      "itemDesc": "CONSUMER HEALTH CARE|PERSONAL INTIMACY"
+    },
+    {
+      "itemCode": "1|5",
+      "itemDesc": "CONSUMER HEALTH CARE|BABY CARE"
+    },
+    {
+      "itemCode": "1|6",
+      "itemDesc": "CONSUMER HEALTH CARE|FIRST AID"
+    },
+    {
+      "itemCode": "1|63",
+      "itemDesc": "CONSUMER HEALTH CARE|SB ADULT CARE"
+    },
+    {
+      "itemCode": "1|64",
+      "itemDesc": "CONSUMER HEALTH CARE|SB PAIN RELIEVERS"
+    },
+    {
+      "itemCode": "1|67",
+      "itemDesc": "CONSUMER HEALTH CARE|NICOTINE REPLACEMENT"
+    },
+    {
+      "itemCode": "1|68",
+      "itemDesc": "CONSUMER HEALTH CARE|HEALTHCARE INNOVATION"
+    },
+    {
+      "itemCode": "1|69",
+      "itemDesc": "CONSUMER HEALTH CARE|SB DIGESTIVE HEALTH"
+    }
+  ]
+}
