@@ -1,45 +1,8 @@
-[{
+{
   "total": 10,
   "items": [
-    {
-      "itemCode": "CN",
-      "itemDesc": "China"
-    },
-    {
-      "itemCode": "JP",
-      "itemDesc": "Japan"
-    },
-    {
-      "itemCode": "TH",
-      "itemDesc": "Thailand"
-    },
-    {
-      "itemCode": "RU",
-      "itemDesc": "Russia"
-    },
-    {
-      "itemCode": "ZM",
-      "itemDesc": "Zambia"
-    },
-    {
-      "itemCode": "FR",
-      "itemDesc": "France"
-    },
-    {
-      "itemCode": "GU",
-      "itemDesc": "Guam"
-    },
-    {
-      "itemCode": "SI",
-      "itemDesc": "Slovenia"
-    },
-    {
-      "itemCode": "FR",
-      "itemDesc": "France"
-    },
-    {
-      "itemCode": "ID",
-      "itemDesc": "Indonesia"
-    }
+    { "itemCode": 1, "itemDesc": "Post 1" },
+    { "itemCode": 2, "itemDesc": "Post 2" },
+    { "itemCode": 3, "itemDesc": "Post 3" }
   ]
-}]
+}
